@@ -192,14 +192,15 @@ a{
 /* Endbar */
 #endbar1{
     height: 100px;
-    background-color: royalblue;
+    background-color: rgb(255, 111, 0);
 }
 #endbar2{
-    height: 150px;
-    background-color: rgb(234, 234, 234);
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+}
+#endbar3{
+    height: 100px;
+    background-color: rgb(0, 117, 43);
 }
 
 /* Responsive */
