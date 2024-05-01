@@ -254,7 +254,7 @@ a{
         display: block;
         margin-top: 100px;
         font-family: Montserrat;
-        font-size: 50px;
+        font-size: 40px;
 
     }
     #aboutSkillsImg{
@@ -309,7 +309,7 @@ a{
         background-color: royalblue;
         color: white;
         font-family: Montserrat;
-        font-size: 50px;
+        font-size: 40px;
     }
     #projectsButtonB{
         height: 40px;
@@ -347,7 +347,7 @@ a{
         background-color: black;
         color: white;
         font-family: Montserrat;
-        font-size: 50px;
+        font-size: 40px;
     }
     #socialH1{
         display: flex;
