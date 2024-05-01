@@ -204,7 +204,7 @@ a{
 }
 
 /* Responsive */
-@media (max-width:550px){
+@media (max-width:650px){
     /* Navbar */
     .nav{
         display: block;
