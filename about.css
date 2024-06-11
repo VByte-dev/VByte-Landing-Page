@@ -188,6 +188,7 @@ a {
   padding: 0px 100px 0px 100px;
   display: flex;
   justify-content: center;
+  gap: 40px;
 }
 #f1,
 #f2,
