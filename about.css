@@ -128,7 +128,7 @@ a {
     align-items: end;
   }
   .nav {
-    padding: 70px 35px -50px 35px;
+    padding: 70px 35px 0px 35px;
     display: block;
   }
   #navIcons {
