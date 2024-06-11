@@ -225,6 +225,9 @@ a {
 /* Responsive */
 @media (max-width: 600px) {
   /* Navbar */
+  #logo {
+    height: 50px;
+  }
   #navButton {
     display: block;
     animation: none;
@@ -233,10 +236,10 @@ a {
     font-size: small;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: end;
   }
   .nav {
-    padding: 70px 35px 80px 35px;
+    padding: 70px 35px 0px 35px;
     display: block;
   }
   #navIcons {
